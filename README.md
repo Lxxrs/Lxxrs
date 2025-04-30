@@ -16,7 +16,7 @@
 ### 🔭 Currently Working On
 - 🐳 Containerizing applications on my Homeserver
 - 🔄 Learning Git
-- 📦 Getting in Touch with Ansible
+- 📦 Getting in touch with Ansible
 
 ---
 
