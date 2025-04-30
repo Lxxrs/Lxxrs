@@ -22,4 +22,4 @@
 
 ### 📫 Get in touch with me
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Lxxrs)
-[![Email](https://img.shields.io/badge/hey@dnicolay.de-3F2147?logo=maildotru&logoColor=white)](mailto:dev@larmart.de)
+[![Email](https://img.shields.io/badge/dev@larmart.de-3F2147?logo=maildotru&logoColor=white)](mailto:dev@larmart.de)
